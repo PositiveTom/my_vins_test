@@ -1,0 +1,6 @@
+<launch>
+
+    <node pkg="visual_hendend" type="estimator_node" name="estimator_node" output="screen"  />
+
+
+</launch>

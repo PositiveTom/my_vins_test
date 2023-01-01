@@ -1,0 +1,6 @@
+target_type: 'aprilgrid' #gridtype
+tagCols: 6               #number of apriltags
+tagRows: 6               #number of apriltags
+tagSize: 0.021           #size of apriltag, edge to edge [m] apritag边缘到边缘之间的距离
+tagSpacing: 0.3          #ratio of space between tags to tagSize 间距/apritag的边长
+codeOffset: 0            #code offset for the first tag in the aprilboard 设置第一个apriltag的编码为0,第二个apritag的编码为1,以此类推,进行区分

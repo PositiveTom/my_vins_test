@@ -1,0 +1,96 @@
+********************iteration begin********************
+
+----------------found delta x at 0 times----------------
+scale        curChi       curLambda    ni_          result       
+0.0400       21.1181      117844.6901  2.0000       1.0000       
+----------------found delta x at 1 times----------------
+scale        curChi       curLambda    ni_          result       
+0.0128       21.1053      39281.5634   2.0000       1.0000       
+----------------found delta x at 2 times----------------
+scale        curChi       curLambda    ni_          result       
+0.0214       21.0839      13093.8545   2.0000       1.0000       
+----------------found delta x at 3 times----------------
+scale        curChi       curLambda    ni_          result       
+0.0437       21.0402      4364.6182    2.0000       1.0000       
+----------------found delta x at 4 times----------------
+scale        curChi       curLambda    ni_          result       
+0.0842       20.9562      1454.8727    2.0000       1.0000       
+----------------found delta x at 5 times----------------
+scale        curChi       curLambda    ni_          result       
+0.1078       20.8486      484.9576     2.0000       1.0000       
+----------------found delta x at 6 times----------------
+scale        curChi       curLambda    ni_          result       
+0.0702       20.7786      161.6525     2.0000       1.0000       
+----------------found delta x at 7 times----------------
+scale        curChi       curLambda    ni_          result       
+0.0251       20.7535      53.8842      2.0000       1.0000       
+----------------found delta x at 8 times----------------
+scale        curChi       curLambda    ni_          result       
+0.0243       20.7292      17.9614      2.0000       1.0000       
+----------------found delta x at 9 times----------------
+scale        curChi       curLambda    ni_          result       
+0.0359       20.6934      5.9871       2.0000       1.0000       
+----------------found delta x at 10 times----------------
+scale        curChi       curLambda    ni_          result       
+0.0237       20.6697      1.9957       2.0000       1.0000       
+----------------found delta x at 11 times----------------
+scale        curChi       curLambda    ni_          result       
+0.0043       20.6654      0.6652       2.0000       1.0000       
+----------------found delta x at 12 times----------------
+scale        curChi       curLambda    ni_          result       
+0.0001       20.6653      0.2217       2.0000       1.0000       
+----------------found delta x at 13 times----------------
+scale        curChi       curLambda    ni_          result       
+0.0000       20.6653      0.0739       2.0000       1.0000 
+
+
+********************iteration begin********************
+
+----------------found delta x at 0 times----------------
+scale        curChi       curLambda    ni_          result       
+0.0400       21.1181      117844.6901  2.0000       1.0000       
+----------------found delta x at 1 times----------------
+scale        curChi       curLambda    ni_          result       
+0.0128       21.1053      39281.5634   2.0000       1.0000       
+----------------found delta x at 2 times----------------
+scale        curChi       curLambda    ni_          result       
+0.0214       21.0839      13093.8545   2.0000       1.0000       
+----------------found delta x at 3 times----------------
+scale        curChi       curLambda    ni_          result       
+0.0437       21.0402      4364.6182    2.0000       1.0000       
+----------------found delta x at 4 times----------------
+scale        curChi       curLambda    ni_          result       
+0.0842       20.9562      1454.8727    2.0000       1.0000       
+----------------found delta x at 5 times----------------
+scale        curChi       curLambda    ni_          result       
+0.1078       20.8486      484.9576     2.0000       1.0000       
+----------------found delta x at 6 times----------------
+scale        curChi       curLambda    ni_          result       
+0.0702       20.7786      161.6525     2.0000       1.0000       
+----------------found delta x at 7 times----------------
+scale        curChi       curLambda    ni_          result       
+0.0251       20.7535      53.8842      2.0000       1.0000       
+----------------found delta x at 8 times----------------
+scale        curChi       curLambda    ni_          result       
+0.0243       20.7292      17.9614      2.0000       1.0000       
+----------------found delta x at 9 times----------------
+scale        curChi       curLambda    ni_          result       
+0.0359       20.6934      5.9871       2.0000       1.0000       
+----------------found delta x at 10 times----------------
+scale        curChi       curLambda    ni_          result       
+0.0237       20.6697      1.9957       2.0000       1.0000       
+----------------found delta x at 11 times----------------
+scale        curChi       curLambda    ni_          result       
+0.0043       20.6654      0.6652       2.0000       1.0000       
+----------------found delta x at 12 times----------------
+scale        curChi       curLambda    ni_          result       
+0.0001       20.6653      0.2217       2.0000       1.0000       
+----------------found delta x at 13 times----------------
+scale        curChi       curLambda    ni_          result       
+0.0000       20.6653      0.0739       2.0000       1.0000   
+
+iter      cost      cost_change  |gradient|   |step|    tr_ratio  tr_radius  ls_iter  iter_time  total_time
+   0  2.115809e+01    0.00e+00    2.39e+04   0.00e+00   0.00e+00  1.00e+04        0    9.44e-04    9.91e-04
+   1  2.066535e+01    4.93e-01    1.74e+02   3.80e-01   9.89e-01  3.00e+04        1    1.02e-03    2.04e-03
+   2  2.066528e+01    6.94e-05    5.94e-01   4.79e-03   9.95e-01  9.00e+04        1    9.72e-04    3.02e-03
+Ceres Solver Report: Iterations: 3, Initial cost: 2.115809e+01, Final cost: 2.066528e+01, Termination: CONVERGENCE

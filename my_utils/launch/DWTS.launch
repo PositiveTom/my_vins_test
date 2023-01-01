@@ -1,0 +1,9 @@
+<launch>
+
+    <node name="DWTS" pkg="my_utils" type="DWTS" output="screen" >
+        <param name="ImuSamplingFreq" type="double" value="100" />
+        <param name="CameraSamplingFreq"  type="double" value="30" />
+        <param name="threshold" type="double" value="0.3" />
+    </node>
+
+</launch>

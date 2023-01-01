@@ -1,0 +1,6 @@
+<launch>
+
+    <node name="my_visualhendendtest" pkg="my_utils" type="my_visualhendendtest" output="screen">
+    </node>
+
+</launch>

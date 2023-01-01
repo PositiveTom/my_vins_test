@@ -1,0 +1,14 @@
+<launch>
+
+    <node name="my_calibration" pkg="my_utils" type="my_calibration" output="screen">
+        <!-- <param name="CALIBRATION_IMAGE_PATH" type="string" value="/home/zjj/MyCode/myVinsPrj/src/my_utils/data/realsensedata" />
+        <param name="points_per_row" type="double" value="7" />
+        <param name="points_per_col" type="double" value="6" /> 
+        <param name="square_size" type="double" value="24" />   -->
+        <param name="CALIBRATION_IMAGE_PATH" type="string" value="/home/zjj/MyCode/myVinsPrj/src/my_utils/data" />
+        <param name="points_per_row" type="double" value="9" />
+        <param name="points_per_col" type="double" value="6" />
+        <param name="square_size" type="double" value="10" />
+    </node>
+
+</launch>

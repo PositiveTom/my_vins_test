@@ -1,0 +1,5 @@
+<launch>
+
+    <node pkg="feature_tracker" type="feature_tracker_node" name="feature_tracker_node" output="screen" />
+
+</launch>

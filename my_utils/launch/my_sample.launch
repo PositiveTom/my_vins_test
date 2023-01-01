@@ -1,0 +1,10 @@
+<launch>
+
+    <node name="sample_photo" pkg="my_utils" type="sample_photo" output="screen">
+        <param name="cameraName" type="string" value="/dev/video1" />
+        <param name="savePath"  type="string" value="/home/zjj/MyCode/myVinsPrj/src/my_utils/data/realsensedata" />
+        <param name="isRealSense" type="bool" value="false" />
+        <param name="camTopicName" type="string" value="/camera/color/image_raw" />
+    </node>
+
+</launch>

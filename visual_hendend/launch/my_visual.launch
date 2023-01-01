@@ -1,0 +1,5 @@
+<launch>
+
+    <node pkg="visual_hendend" name="visualheadend_node" type="visualheadend_node" output="screen" />
+
+</launch>

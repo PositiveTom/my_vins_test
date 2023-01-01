@@ -1,0 +1,8 @@
+<launch>
+    <!--check  -->
+    <node name="my_check_time" pkg="my_utils"  type="my_check_time" output="screen" >
+        <param name="SensorTopic" type="string" value="/camera/imu" />
+        <param name="multiple" type="double" value="100" />
+    </node>
+
+</launch>
