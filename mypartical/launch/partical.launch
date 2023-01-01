@@ -1,0 +1,5 @@
+<launch>
+
+    <node name="partical" pkg="mypartical" type="partical" output="screen" />
+
+</launch>
